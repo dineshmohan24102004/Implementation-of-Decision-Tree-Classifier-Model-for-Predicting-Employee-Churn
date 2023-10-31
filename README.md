@@ -64,19 +64,20 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 ## data.head()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/8f135493-59e5-4131-a5ec-ff6880df26a4)
+## data.info()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/bf654eca-276d-4ae4-a17c-4ba9d84a2da5)
+## isnull() and sum()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/42eecd17-22b8-4848-8e59-a5131cbadfd7)
+## data Value Counts()
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/efdc9c66-5a99-4610-92f0-d7efe6b39483)
+## data.head() for salary
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/66181b82-b855-4878-a17d-bae2ffd3aedc)
-![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/7ffa57c5-4104-4039-8002-7ec7f40b0ec0)
+## x.head()
+![image](https://github.com/dineshmohan241d02004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/7ffa57c5-4104-4039-8002-7ec7f40b0ec0)
+## accuracy value
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/071525b3-14db-492a-842f-6facd54fdf78)
+## Data Prediction
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/9a24e2f5-01d4-452a-8887-955ea4842210)
-
-
-
-
-
-
 
 
 
