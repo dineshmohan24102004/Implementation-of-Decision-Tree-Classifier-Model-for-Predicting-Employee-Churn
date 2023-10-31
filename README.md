@@ -73,7 +73,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## data.head() for salary
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/66181b82-b855-4878-a17d-bae2ffd3aedc)
 ## x.head()
-![image](https://github.com/dineshmohan241d02004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/7ffa57c5-4104-4039-8002-7ec7f40b0ec0)
+![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/50fd1804-94fc-40f2-8a5e-189a14373735)
+
 ## accuracy value
 ![image](https://github.com/dineshmohan24102004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119478475/071525b3-14db-492a-842f-6facd54fdf78)
 ## Data Prediction
